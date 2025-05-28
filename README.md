@@ -1,6 +1,6 @@
 # playwright-api
 
-![Playwright Tests](https://github.com/${{ github.repository }}/actions/workflows/playwright.yml/badge.svg)
+[![Playwright Tests](https://github.com/bruno-furquim/playwright-api/actions/workflows/playwright.yml/badge.svg)](https://github.com/bruno-furquim/playwright-api/actions/workflows/playwright.yml)
 
 Automação de testes de API utilizando Playwright Test
 
